@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section.project{
+    width: 100%;
+}
+@font-face {
+    font-family: myriad_pro;
+    src: url("../fonts/EN/MYRIADPRO-REGULAR.woff");
+}

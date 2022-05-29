@@ -1,0 +1,14 @@
+{
+  "name": "psd",
+  "version": "1.0.0",
+  "description": "practic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mojtaba",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
